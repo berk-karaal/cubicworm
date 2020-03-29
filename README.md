@@ -4,7 +4,8 @@ Example (low quality :pensive: ) ⤵
 
 ![program example gif](cubicworm.gif "program example")
 
-### HOW TO ?
+HOW TO ?
+--------
 
 Go to this url: http://berkkaraal.com/cubicworm/
 Move your mouse _slowly_ and that's it.
