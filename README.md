@@ -7,7 +7,7 @@ Example (low quality :pensive: ) ⤵
 HOW TO ?
 --------
 
-Go to this url: http://berkkaraal.com/cubicworm/
+Go to this url: http://berkkaraal.com/p5js/cubicworm/
 Move your mouse _slowly_ and that's it.
 
 ----
